@@ -21,7 +21,7 @@ Anforderungen:
 
 
 ## ▶️ Installation & Start
-/* git clone https://github.com/NaghamIstevo/Quiz-App_mit_Multiple-Choice-Fragen.git */
+git clone https://github.com/NaghamIstevo/Quiz-App_mit_Multiple-Choice-Fragen.git 
 cd ReactAbschlussProjekt_NaghamIstevo
 npm install
 npm install redux react-redux
